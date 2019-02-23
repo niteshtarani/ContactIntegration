@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContactIntegration</string>
+    <string name="account_already_exists" translatable="false">Account already exists</string>
+    <string name="account_added" translatable="false">Account added</string>
+    <string name="account_name" translatable="false">ContactIntegration</string>
+    <string name="account_type" translatable="false">app.contactintegration</string>
+    <string name="add_account">Add Account</string>
+    <string name="mimetype_action1">vnd.android.cursor.item/app.contactintegration.action1</string>
+    <string name="mimetype_action2">vnd.android.cursor.item/app.contactintegration.action2</string>
+    <string name="perform_action1">Perform Action 1</string>
+    <string name="perform_action2">Perform Action 2</string>
+</resources>
